@@ -2,8 +2,8 @@
 
 ## MonPol_minutes folder:
 
-*This contains sentiment analysis of Chilean Central Bank meeting minutes.
-*References: https://arxiv.org/pdf/2106.09462.pdf
+* This contains sentiment analysis of Chilean Central Bank meeting minutes.
+* References: https://arxiv.org/pdf/2106.09462.pdf
 
 ## Main folder
 
